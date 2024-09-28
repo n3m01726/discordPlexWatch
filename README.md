@@ -20,7 +20,7 @@ This is a Discord bot that monitors the status of a Plex server and provides upd
 
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/n3m01726/discordPlexWatch.git)
+   git clone https://github.com/n3m01726/discordPlexWatch.git
    cd <repository-directory>
    ```
 2. Install the required packages:
